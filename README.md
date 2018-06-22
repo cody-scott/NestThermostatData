@@ -1,4 +1,4 @@
-# NestThermostatData
+# Nest Thermostat Data
 Save Nest thermostat runtimes for usage elsewhere
 
 Run the javascript code in the nest window when you have the history modal open, with the days expanded.
